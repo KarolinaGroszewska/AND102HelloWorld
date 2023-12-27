@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="introTextView">Hello world! My name is Kari, and I love knitting, playing board games, and creating mobile apps!</string>
+    <string name="helloButton">Say Hello!</string>
+</resources>
